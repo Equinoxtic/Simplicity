@@ -1,0 +1,21 @@
+{
+	"Appearance": {
+		// Object Appearance Data
+	},
+
+	"Data": {
+		// Object's Data
+	},
+
+	"Transform": {
+		// Object's Transform Data
+	},
+
+	"Collision": {
+		// Object's Collision Data
+	},
+
+	"Part": {
+		// Object's Part data
+	}
+}
