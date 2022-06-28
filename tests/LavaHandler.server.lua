@@ -3,7 +3,7 @@ local lavabricks = workspace.Objects.LavaBricks
 local function LavaFunction(other)
 	local humanoid = other.Parent:FindFirstChild("Humanoid")
 	if humanoid then
-		humanoid.health = 0
+		humanoid.Health = 0
 	end
 end
 
