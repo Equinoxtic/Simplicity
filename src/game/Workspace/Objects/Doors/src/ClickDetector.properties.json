@@ -1,0 +1,12 @@
+{
+	"Data": {
+		"Archivable": true,
+		"ClassName": "ClickDetector",
+		"MaxActivationDistance": 32,
+		"Name": "ClickDetector"
+	},
+
+	"Image": {
+		"CursorIcon": ""
+	}
+}
