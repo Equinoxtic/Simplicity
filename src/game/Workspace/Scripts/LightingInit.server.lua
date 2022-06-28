@@ -12,6 +12,15 @@ blur.Parent = lighting
 blur.Enabled = true
 blur.Size = 4.5
 
+-- DepthOfField
+local depthOfField = Instance.new("DepthOfFieldEffect")
+depthOfField.Parent = lighting
+depthOfField.Enabled = true
+depthOfField.FarIntensity = 0.85
+depthOfField.FocusDistance = 0.08
+depthOfField.InFocusRadius = 11.5
+depthOfField.NearIntensity = 0
+
 -- Bloom
 local bloom = Instance.new("BloomEffect")
 bloom.Parent = lighting
