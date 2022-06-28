@@ -1,0 +1,6 @@
+{
+	"diffEditor.codeLens": false,
+	"editor.insertSpaces": false,
+	"editor.minimap.enabled": true,
+	"files.autoSave": "afterDelay"
+}

@@ -1,0 +1,10 @@
+{
+	"Project": {
+		"Name": "Simplicity",
+		"Structure": {
+			"SourceDirectory": "src",
+			"TestsDirectory": "tests",
+			"TemplatesDirectory": "templates"
+		}
+	}
+}
